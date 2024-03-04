@@ -15,7 +15,7 @@ So I used this api and filtered for first data of every day and displayed it to 
 <img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/a5ddbae6-40c1-4cae-9a7f-acc6e2f96200" width=50% height=50%>
 
 ## Error Screen
-<img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/a5ddbae6-40c1-4cae-9a7f-acc6e2f96200" width=50% height=50%>
+<img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/3752ebd4-14e1-4613-89ba-98a0cdeb7880" width=50% height=50%>
 
 ## Architecture
 
@@ -24,3 +24,4 @@ Application is build with bloc architecture and uses clean architecture with it 
 An overview of clean architecture:
 
 <img width="484" alt="Clean_Arch" src="https://github.com/dearestpankaj/weatherInfo/assets/987922/d340138e-bea2-4eb1-b32b-ad94ea3a3b4f">
+
