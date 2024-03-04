@@ -11,7 +11,6 @@ So I used this api and filtered for first data of every day and displayed it to 
 
 <img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/b23985f6-cda2-49e6-aa08-ad374a6bbabc" width=50% height=50%>
 
-Screenshots:![Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 13 48 53](https://github.com/dearestpankaj/weatherInfo/assets/987922/b23985f6-cda2-49e6-aa08-ad374a6bbabc)
 
 
 
