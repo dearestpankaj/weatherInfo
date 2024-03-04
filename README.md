@@ -8,12 +8,14 @@ api.openweathermap.org/data/2.5/forecast?lat=52.521992&units=metric&lon=13.41324
 The above api provides weather forecast for next 5 days but for every 3 hours. I could not find another free api that could give me daily weather information.
 So I used this api and filtered for first data of every day and displayed it to the user.
 
+## Portrait Mode
 <img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/e2d0a50d-97cb-4b7a-a5cf-d1e72c7c3e66" width=50% height=50%>
 
-
+## Landscape Mode
 <img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/a5ddbae6-40c1-4cae-9a7f-acc6e2f96200" width=50% height=50%>
 
-
+## Error Screen
+<img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/a5ddbae6-40c1-4cae-9a7f-acc6e2f96200" width=50% height=50%>
 
 ## Architecture
 
