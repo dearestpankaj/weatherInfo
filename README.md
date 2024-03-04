@@ -9,9 +9,10 @@ The above api provides weather forecast for next 5 days but for every 3 hours. I
 So I used this api and filtered for first data of every day and displayed it to the user.
 
 
-<img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/b23985f6-cda2-49e6-aa08-ad374a6bbabc" width=50% height=50%>
+<img src="https://![Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 13 51 44](https://github.com/dearestpankaj/weatherInfo/assets/987922/5aad6458-1db3-4560-b2a1-ae04855c8fed)
+github.com/dearestpankaj/weatherInfo/assets/987922/b23985f6-cda2-49e6-aa08-ad374a6bbabc" width=50% height=50%>
 
-
+<img src="https://github.com/dearestpankaj/weatherInfo/assets/987922/a5ddbae6-40c1-4cae-9a7f-acc6e2f96200" width=50% height=50%>
 
 
 
