@@ -10,7 +10,7 @@ So I used this api and filtered for first data of every day and displayed it to 
 
 Screenshots:
 
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/dearestpankaj/weatherInfo/assets/987922/a4757fad-24bb-4dc2-9366-836757a7d9b7)" width=50% height=50%>
+<img src="[[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/dearestpankaj/weatherInfo/assets/987922/a4757fad-24bb-4dc2-9366-836757a7d9b7)](https://github.com/dearestpankaj/weatherInfo/assets/987922/a4757fad-24bb-4dc2-9366-836757a7d9b7)" width=50% height=50%>
 
 <img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/dearestpankaj/weatherInfo/assets/987922/a4757fad-24bb-4dc2-9366-836757a7d9b7)" width=50% height=50%>
 
