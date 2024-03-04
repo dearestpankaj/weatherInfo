@@ -24,4 +24,3 @@ Application is build with bloc architecture and uses clean architecture with it 
 An overview of clean architecture:
 
 <img width="484" alt="Clean_Arch" src="https://github.com/dearestpankaj/weatherInfo/assets/987922/d340138e-bea2-4eb1-b32b-ad94ea3a3b4f">
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-04 at 13 48 53](https://github.com/dearestpankaj/weatherInfo/assets/987922/e2d0a50d-97cb-4b7a-a5cf-d1e72c7c3e66)
